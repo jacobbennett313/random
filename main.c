@@ -2,7 +2,7 @@
 //  main.c
 //  Sample C Program
 //
-//  Created by Jacob Bennett on 5/30/17.
+//  Created by _____ _______ on 5/30/17.
 //  Copyright © 2017 CSCI. All rights reserved.
 //  Compiler: Xcode 8.3.1
 //  OS Mac OS Sierra 10.12.5
